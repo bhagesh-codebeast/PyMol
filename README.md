@@ -1,0 +1,2 @@
+# PyMol
+License file
